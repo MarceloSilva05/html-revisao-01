@@ -1,0 +1,15 @@
+{
+  "name": "eu_no_mundo",
+  "version": "1.0.0",
+  "description": "Atividade prática",
+  "main": "index.html",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "Atividade",
+    "pratica"
+  ],
+  "author": "Marcelo",
+  "license": "ISC"
+}
